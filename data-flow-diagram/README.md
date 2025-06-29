@@ -20,7 +20,7 @@ This Level 1 DFD breaks down the system into its major sub-processes and shows h
 The following diagram illustrates the key data flows for major operations like user registration, property searching, booking, and payment processing.
 
 
-![Backend Data Flow Diagram](./data-flow-diagram.png)
+![Backend Data Flow Diagram](./data-flow.png)
 
 ---
 
